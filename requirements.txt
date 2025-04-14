@@ -1,0 +1,12 @@
+SpeechRecognition==3.10.0
+opencv-python
+wikipedia
+pyttsx3
+psutil
+pyautogui
+pywhatkit
+spacy
+google-generativeai
+selenium
+webdriver-manager
+pandas
